@@ -1,0 +1,15 @@
+.backbtn {
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 3vw;
+    margin-left: 8%;
+    border: solid white 1px;
+    padding: .5%;
+    border-radius: 10px;
+}
+
+.backbtn:hover {
+    color: aquamarine;
+    padding: 1%;
+    border: solid aquamarine 3px;
+}

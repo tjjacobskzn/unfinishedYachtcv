@@ -1,0 +1,96 @@
+.main {
+    float: left;
+    padding: 0 20px;
+}
+
+.mylink {
+    font-size: 1.7vw;
+    margin: 3%;
+    font-weight: 600;
+    color: gold;
+}
+
+.body {
+    font-family: system-ui;
+    border: solid 6px;
+    padding: 1%;
+    border-color: blue green gold red;
+    background-color: rgb(221, 250, 255);
+}
+
+.table {
+    background-color: rgb(36, 122, 151);
+    padding: 15px;
+    text-align: center;
+    border-top: solid;
+    border-left: solid;
+    border-radius: 1000px 0px;
+}
+
+.firstdata {
+    width: 20%;
+}
+
+.imageme {
+    width: 100%;
+    border-top: solid;
+    border-left: solid;
+    float: left;
+    border-radius: 30% 8%;
+}
+
+.namehead {
+    font-size: 3vw;
+    color: azure
+}
+
+.introhead {
+    font-size: 1.3vw;
+    color: azure;
+    margin-top: -4%;
+}
+
+.numberhead {
+    font-size: 1.8vw;
+    color: azure;
+}
+
+.emailhead {
+    font-size: 1.8vw;
+    color: azure;
+    margin-top: -3%;
+}
+
+.navhead {
+    text-align: center;
+}
+
+.overflow {
+    overflow: auto;
+}
+.workexphead {
+    text-align: center; font-size:3vw;
+}
+
+.wrkhead {
+    font-size:1.8vw;text-align: center;margin-top: 0;
+}
+
+.exp2 {
+    border: solid 2px;
+    padding: 3%;
+    border-color: blue green gold red;
+    border-radius: 200px 0px 180px 40px;
+}
+
+.pp {
+    font-size:1.3vw;
+}
+
+
+/* .navitem:hover {
+    opacity: .50;
+} */
+a:hover {
+    opacity: .50;
+}

@@ -68,12 +68,16 @@
 .overflow {
     overflow: auto;
 }
+
 .workexphead {
-    text-align: center; font-size:3vw;
+    text-align: center;
+    font-size: 3vw;
 }
 
 .wrkhead {
-    font-size:1.8vw;text-align: center;margin-top: 0;
+    font-size: 1.8vw;
+    text-align: center;
+    margin-top: 0;
 }
 
 .exp2 {
@@ -84,13 +88,9 @@
 }
 
 .pp {
-    font-size:1.3vw;
+    font-size: 1.3vw;
 }
 
-
-/* .navitem:hover {
-    opacity: .50;
-} */
 a:hover {
     opacity: .50;
 }
